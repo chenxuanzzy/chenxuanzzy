@@ -2,6 +2,7 @@
 
 
 👨🏻‍💻 About Me
+
 I am Front-End Web Developer. It's been about 2 years, working as web developer use HTML, JavaScript, CSS, etc. I have developed  internal company system, about accounting, data monitoring web.
 
 🛠 Tech Stack
@@ -18,7 +19,9 @@ I am Front-End Web Developer. It's been about 2 years, working as web developer 
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
 
 
-🤝🏻 Connect with Me
+💬 Ask me about 
+
+<img src="https://img.shields.io/badge/-chenxsuan019@gmail.com-100000?style=flat&logo=gmail&logoColor=white"/>
 <p>
   <a href="https://github.com/chenxuan019"><img src="https://img.shields.io/badge/-chenxuan019-100000?style=flat&logo=github&logoColor=white"/></a>
 <!--   <a href="https://www.linkedin.com/in/vinay-sawant-2b038157"><img src="https://img.shields.io/badge/-vinay10949-0077B5?style=flat&logo=linkedin&logoColor=white"/></a> -->
