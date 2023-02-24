@@ -15,7 +15,7 @@ I am Front-End Web Developer. It's been about 2 years, working as web developer 
 🌱 I’m currently learning
 
 ![React](https://img.shields.io/badge/-react.js-05122A?style=flat&logo=react)&nbsp;
-![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)\
+![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
 
 
 🤝🏻 Connect with Me
