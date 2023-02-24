@@ -5,7 +5,6 @@
 
 Hi there. I am Front-End Web Developer. It's been about 2 years, working as web developer use HTML, JavaScript, CSS, etc. I have developed  internal company system, about accounting, data monitoring web.
 
-🛠 Tech Stack
 
 ### 🛠  Technologies and tools
 
@@ -20,7 +19,7 @@ Hi there. I am Front-End Web Developer. It's been about 2 years, working as web 
 <img src="https://img.shields.io/badge/markdown-282C34?logo=narkdown&logoColor=white" alt="git logo" title="git" height="25" />
 
 
-🌱 I’m currently learning
+### 🌱 What I am currently learning / improving on
 
 <img src="https://img.shields.io/badge/-react.js-05122A?style=flat&logo=react" alt="react" title="react" height="25"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python" alt="py logo" title="py" height="25" />&nbsp;
@@ -30,7 +29,7 @@ Hi there. I am Front-End Web Developer. It's been about 2 years, working as web 
 <img src="https://img.shields.io/badge/Vue3-282C34?logo=Vue.js" alt="VueJS" title="Microsoft SQL Server" height="25" />
 
 
-💬 Ask me about 
+### 💬 Ask me about 
 
 <img src="https://img.shields.io/badge/-chenxsuan019@gmail.com-100000?style=flat&logo=gmail&logoColor=white"/>
 <p>
