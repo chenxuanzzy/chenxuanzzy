@@ -16,8 +16,8 @@ Hi there. I am Front-End Web Developer. It's been about 2 years, working as web 
 <img src="https://img.shields.io/badge/Boostrap-282C34?logo=Boostrap&logoColor=CC6699" alt="Sass logo" title="Boostrap" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-<img src="https://img.shields.io/badge/markdown-282C34?logo=narkdown&logoColor=white" alt="git logo" title="git" height="25" />
-
+<img src="https://img.shields.io/badge/markdown-282C34?logo=markdown&logoColor=white" alt="git logo" title="markdown" height="25" />
+<img src="https://img.shields.io/badge/SQL-282C34?logo=SQL&logoColor=white" alt="git logo" title="SQL" height="25" />
 
 ### 🌱 What I am currently learning / improving on
 
