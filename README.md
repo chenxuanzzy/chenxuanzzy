@@ -1,7 +1,7 @@
 
 
 
-### 👨🏻‍💻 About Me 👋
+<!-- ### 👨🏻‍💻 About Me 👋
 
 Hi there. I am Front-End Web Developer. It's been about 2 years, working as web developer use HTML, JavaScript, CSS, etc.
 
@@ -17,24 +17,24 @@ Hi there. I am Front-End Web Developer. It's been about 2 years, working as web 
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/markdown-282C34?logo=markdown&logoColor=white" alt="git logo" title="markdown" height="25" />
-<img src="https://img.shields.io/badge/SQL-282C34?logo=SQL&logoColor=white" alt="git logo" title="SQL" height="25" />
+<img src="https://img.shields.io/badge/SQL-282C34?logo=SQL&logoColor=white" alt="git logo" title="SQL" height="25" /> --!>
 
-<!-- ### 🌱 What I am currently learning / improving on
+<!-- ### 🌱 What I am currently learning / improving on -->
 
-<img src="https://img.shields.io/badge/-react.js-05122A?style=flat&logo=react" alt="react" title="react" height="25"/>&nbsp;
+<!-- <img src="https://img.shields.io/badge/-react.js-05122A?style=flat&logo=react" alt="react" title="react" height="25"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python" alt="py logo" title="py" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
 
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp; -->
 
 
-### 💬 Ask me about 
+<!-- ### 💬 Ask me about 
 
 <img src="https://img.shields.io/badge/-chenxsuan019@gmail.com-100000?style=flat&logo=gmail&logoColor=white"/>
 <p>
   <a href="https://github.com/chenxuan019"><img src="https://img.shields.io/badge/-chenxuan019-100000?style=flat&logo=github&logoColor=white"/></a>
-<!--   <a href="https://www.linkedin.com/in/vinay-sawant-2b038157"><img src="https://img.shields.io/badge/-vinay10949-0077B5?style=flat&logo=linkedin&logoColor=white"/></a> -->
-</p>
+<a href="https://www.linkedin.com/in/vinay-sawant-2b038157"><img src="https://img.shields.io/badge/-vinay10949-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+</p> -->
 
 
 <!--
